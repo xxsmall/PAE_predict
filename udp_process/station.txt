@@ -1,0 +1,4 @@
+#stationName  alt   lat  lon
+QSX73C  697.0   34.87  108.95
+
+    
